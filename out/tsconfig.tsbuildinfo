@@ -1,0 +1,249 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/@rbxts/services/index.d.ts": {
+        "version": "ab057697986178633641a90bb301fc06f59ab6e3276256237fbf8205bd852bb9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@rbxts/types/include/generated/enums.d.ts": {
+        "version": "74bd55bdbf527139cb101649665f73524e126f119a8858151298ffa23948cbc8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/types/include/generated/none.d.ts": {
+        "version": "27aaa03ca8ea22c9d168b6f05e5b99fb45fb7ddc0e0a5cd81e762a39de58ea8d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/compiler-types/types/array.d.ts": {
+        "version": "cb5b757630b5350ef764b7e3c36e1680c8cd5422c8bee216ef635dddb2a95633",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/compiler-types/types/callmacros.d.ts": {
+        "version": "d375a7cea46de4db0433aeb1958359f68fde69d42a8c0550f7971d9f80f7288d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/compiler-types/types/iterable.d.ts": {
+        "version": "f7d98feac5991279ef0fb451c71c75733cb01bde7f31c358a792bfad938c799c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/compiler-types/types/map.d.ts": {
+        "version": "716eed01ee897541c19ee5b8b84f23d96d977b4fd6d271fa27469ff0156b3faa",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/compiler-types/types/promise.d.ts": {
+        "version": "e5e7e6e264546e026280edb5059452c7d42bddff52f15fa696f3e3e220407734",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/compiler-types/types/set.d.ts": {
+        "version": "067a553f308fe9ee22dc66c12fd8b99d96630c2802b229b6e7ea727cd802424c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/compiler-types/types/string.d.ts": {
+        "version": "16dbf05c9695fd85b8ce4ee4a7f7961bbd11ec50a5ad64aea7a389db42464e20",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/compiler-types/types/symbol.d.ts": {
+        "version": "57fd79d51995e6c54d19b29247129ecc447bae9fc7ce39ba61bd1cea6b8fece3",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/compiler-types/types/typeutils.d.ts": {
+        "version": "b485b43e3fc7caf6341b339f91407acdfaebf85f3364514a0a3b283d9a3a4c12",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/compiler-types/types/core.d.ts": {
+        "version": "8c51cd0272d7ebb5cf88ddb5acc2222962f816fc7d65f453142cc6a9c33e4fdb",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/types/include/lua.d.ts": {
+        "version": "c5a15fa056da437c3e6ed94f60695d428c28af3f77a579176863e5753547a464",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/types/include/macro_math.d.ts": {
+        "version": "00ad66381fdf9553e4c1e28ba3c834cd7915b99de0f474be39943a8413ba4ad3",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/types/include/roblox.d.ts": {
+        "version": "175419267cd8c287542b40fc8c7cfba87f2104e634b6d8d3c0bd635201e814bd",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@rbxts/device/out/device.d.ts": {
+        "version": "d8a832510e5c3f0953c84da57b953c3ce23767af637421876e6a6cc4cc5f2ea7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@rbxts/device/out/index.d.ts": {
+        "version": "bc349a2f73bf3085a68b5a3c65a819080282bcc255ca2ead546af387dbe95a89",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@rbxts/maid/maid.d.ts": {
+        "version": "5bd4eec84ed2022d230186cedb2f13acc899b6dcc98dea51d05505f62f9efc51",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@rbxts/make/init.d.ts": {
+        "version": "eaa04df64264e0c879324fcdf9c6476bb7499abe5f252ca98fb8d891d301fb95",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@rbxts/signal/index.d.ts": {
+        "version": "d2dd8aead195308f0b7655b999bfc1d64415476fb8b52d11a6044280e359e50c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@rbxts/camera-shaker/index.d.ts": {
+        "version": "9ac9b016ff7fa51c4cfb7467f0f530e54dd51ce384e92d631a2b25899214d23c",
+        "affectsGlobalScope": false
+      },
+      "../src/client/main-learning.client.ts": {
+        "version": "ee7d1f772e2cca4b673037fc1e6951cb595655556bf8384ec4a5bd926a895582",
+        "affectsGlobalScope": false
+      },
+      "../src/client/main.client.ts": {
+        "version": "75630cbfe9a2d6d8341cdc5cbb6c32ef40de83a916b81ac336b74de1f4e7cad2",
+        "affectsGlobalScope": false
+      },
+      "../src/client/managers/character/movement.ts": {
+        "version": "46716595c613ccddae76a65b580a17e610f3afdaceeae2e0149a3b25fce40974",
+        "affectsGlobalScope": false
+      },
+      "../src/client/managers/client/input.ts": {
+        "version": "91761c3f6008e7d82d0171da15cdcb21dfe14351150c5f816fe804228e7f3b9a",
+        "affectsGlobalScope": false
+      },
+      "../src/shared/ball-data.ts": {
+        "version": "e06962d06be1eba4f89af7c8066fd4a0efaa9a256d06206221c30c03b89f3dec",
+        "affectsGlobalScope": false
+      },
+      "../src/server/ball.ts": {
+        "version": "9c7ab72df53e3a4db01ea6f7d57f12fe5005796e82904965e9c35a75892c1559",
+        "affectsGlobalScope": false
+      },
+      "../src/server/remotes.ts": {
+        "version": "fad2646cd8da3c613e4d44fba82afa99e44387219f4d5f05e1d624ec1c5ddde7",
+        "affectsGlobalScope": false
+      },
+      "../src/server/main.server.ts": {
+        "version": "ecf11b623ba7c65c4c2b906fd8e9f27f1e7d1502209606c6abd8cc45c690320c",
+        "affectsGlobalScope": false
+      },
+      "../src/server/managers/balls.ts": {
+        "version": "86118597accfe87a1634e3a3bf51dc7fca276755fe616493b497addad90a0bfc",
+        "affectsGlobalScope": false
+      },
+      "../src/server/managers/mechanics/serve.ts": {
+        "version": "4f7cde19596a206f09e88ccedd362024b2ecb17a69fa4fbe8b740ddff7f47ecf",
+        "affectsGlobalScope": false
+      },
+      "../src/shared/simple-state-machine.ts": {
+        "version": "98f5cc0dbb3f02bb4fd0e8454d36aa6bb92d4dcf71a4e524fb0fc6d3de2a9ec1",
+        "affectsGlobalScope": false
+      },
+      "../src/client/managers/client/client-ball-replication.ts": {
+        "version": "d3ddbdab5dce5ac021147c01f0dba72e65457d160ab1bf93ea4e6b80b7c7f8d1",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "allowSyntheticDefaultImports": true,
+      "downlevelIteration": true,
+      "jsx": 2,
+      "jsxFactory": "Roact.createElement",
+      "module": 1,
+      "moduleResolution": 2,
+      "noLib": true,
+      "resolveJsonModule": true,
+      "strict": true,
+      "target": 99,
+      "typeRoots": [
+        "../node_modules/@rbxts"
+      ],
+      "rootDir": "../src",
+      "outDir": "./",
+      "baseUrl": "../src",
+      "incremental": true,
+      "tsBuildInfoFile": "./tsconfig.tsbuildinfo",
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../node_modules/@rbxts/compiler-types/types/core.d.ts": [
+        "../node_modules/@rbxts/compiler-types/types/array.d.ts",
+        "../node_modules/@rbxts/compiler-types/types/callmacros.d.ts",
+        "../node_modules/@rbxts/compiler-types/types/iterable.d.ts",
+        "../node_modules/@rbxts/compiler-types/types/map.d.ts",
+        "../node_modules/@rbxts/compiler-types/types/promise.d.ts",
+        "../node_modules/@rbxts/compiler-types/types/set.d.ts",
+        "../node_modules/@rbxts/compiler-types/types/string.d.ts",
+        "../node_modules/@rbxts/compiler-types/types/symbol.d.ts",
+        "../node_modules/@rbxts/compiler-types/types/typeutils.d.ts"
+      ],
+      "../node_modules/@rbxts/device/out/device.d.ts": [
+        "../node_modules/@rbxts/types/include/roblox.d.ts"
+      ],
+      "../node_modules/@rbxts/device/out/index.d.ts": [
+        "../node_modules/@rbxts/device/out/device.d.ts"
+      ],
+      "../node_modules/@rbxts/make/init.d.ts": [
+        "../node_modules/@rbxts/make/node_modules/@rbxts/compiler-types/types/core.d.ts",
+        "../node_modules/@rbxts/types/include/roblox.d.ts"
+      ],
+      "../node_modules/@rbxts/types/include/generated/enums.d.ts": [
+        "../node_modules/@rbxts/types/include/roblox.d.ts"
+      ],
+      "../node_modules/@rbxts/types/include/generated/none.d.ts": [
+        "../node_modules/@rbxts/types/include/generated/enums.d.ts",
+        "../node_modules/@rbxts/types/include/roblox.d.ts"
+      ],
+      "../node_modules/@rbxts/types/include/lua.d.ts": [
+        "../node_modules/@rbxts/compiler-types/types/core.d.ts",
+        "../node_modules/@rbxts/types/include/generated/none.d.ts"
+      ],
+      "../node_modules/@rbxts/types/include/roblox.d.ts": [
+        "../node_modules/@rbxts/compiler-types/types/core.d.ts",
+        "../node_modules/@rbxts/types/include/generated/enums.d.ts",
+        "../node_modules/@rbxts/types/include/generated/none.d.ts",
+        "../node_modules/@rbxts/types/include/lua.d.ts",
+        "../node_modules/@rbxts/types/include/macro_math.d.ts"
+      ],
+      "../src/client/main-learning.client.ts": [
+        "../node_modules/@rbxts/camera-shaker/index.d.ts",
+        "../node_modules/@rbxts/device/out/index.d.ts",
+        "../node_modules/@rbxts/maid/maid.d.ts",
+        "../node_modules/@rbxts/make/init.d.ts",
+        "../node_modules/@rbxts/services/index.d.ts",
+        "../node_modules/@rbxts/signal/index.d.ts"
+      ],
+      "../src/client/main.client.ts": [
+        "../node_modules/@rbxts/services/index.d.ts"
+      ],
+      "../src/client/managers/client/client-ball-replication.ts": [
+        "../node_modules/@rbxts/services/index.d.ts",
+        "../src/shared/ball-data.ts"
+      ],
+      "../src/client/managers/client/input.ts": [
+        "../node_modules/@rbxts/services/index.d.ts"
+      ],
+      "../src/server/ball.ts": [
+        "../node_modules/@rbxts/make/init.d.ts",
+        "../node_modules/@rbxts/services/index.d.ts",
+        "../src/shared/ball-data.ts"
+      ],
+      "../src/server/main.server.ts": [
+        "../node_modules/@rbxts/make/init.d.ts",
+        "../node_modules/@rbxts/services/index.d.ts",
+        "../src/server/remotes.ts"
+      ],
+      "../src/server/managers/balls.ts": [
+        "../node_modules/@rbxts/services/index.d.ts",
+        "../src/server/ball.ts",
+        "../src/shared/ball-data.ts"
+      ],
+      "../src/server/managers/mechanics/serve.ts": [
+        "../node_modules/@rbxts/make/init.d.ts",
+        "../node_modules/@rbxts/services/index.d.ts",
+        "../src/server/ball.ts",
+        "../src/shared/ball-data.ts"
+      ],
+      "../src/server/remotes.ts": [
+        "../node_modules/@rbxts/services/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": []
+  },
+  "version": "1.0.0-beta.10-23ef8c0e8d7ad5b3182f93a2152d2d21e8d1dbcebc78e8b6dfb3b3d966d2efcd"
+}

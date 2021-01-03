@@ -1,0 +1,13 @@
+-- Compiled with roblox-ts v1.0.0-beta.10
+local DEFAULT_GRAVITY = Vector3.new(0, 0.3, 0)
+local DEFAULT_AIR_RESISTANCE = 0.98
+local BALL_SIZE = Vector3.new(1, 1, 1) * 2.2
+local BALL_TAG = "BALL"
+local BALL_CLASS = "MeshPart"
+return {
+	DEFAULT_GRAVITY = DEFAULT_GRAVITY,
+	DEFAULT_AIR_RESISTANCE = DEFAULT_AIR_RESISTANCE,
+	BALL_SIZE = BALL_SIZE,
+	BALL_TAG = BALL_TAG,
+	BALL_CLASS = BALL_CLASS,
+}

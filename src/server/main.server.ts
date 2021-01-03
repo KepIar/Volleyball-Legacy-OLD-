@@ -1,4 +1,6 @@
-import { Players, ServerScriptService } from "@rbxts/services";
+import { Players, ReplicatedStorage, ServerScriptService } from "@rbxts/services";
+import Make from "@rbxts/make";
+import { REMOTE_EVENTS, REMOTE_FUNCTIONS } from "./remotes";
 
 const CAMERA_MAX_ZOOM_DISTANCE = 25;
 
@@ -12,6 +14,21 @@ function onPlayerAdded(player: Player) {
 Players.PlayerAdded.Connect(onPlayerAdded);
 for (const player of Players.GetPlayers()) {
 	onPlayerAdded(player);
+}
+
+// generate events
+for (const remoteEvent of REMOTE_EVENTS) {
+	Make("RemoteEvent", {
+		Name: remoteEvent,
+		Parent: ReplicatedStorage,
+	});
+}
+
+for (const remoteFunction of REMOTE_FUNCTIONS) {
+	Make("RemoteFunction", {
+		Name: remoteFunction,
+		Parent: ReplicatedStorage,
+	});
 }
 
 // load managers
